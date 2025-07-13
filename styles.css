@@ -1,0 +1,40 @@
+body{
+    background-color: #eee;
+}
+
+.container{
+    margin: 20px;
+    font-size: 20px;
+}
+
+.sub{
+    gap: 10px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+    margin-left: 0px;
+    color: blue;
+}
+
+p{
+    margin-top: 0px;
+    margin-bottom: 15px;
+    text-align: justify;
+}
+
+h2{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: left;
+    color: aqua;
+}
+
+h3{
+    margin-top: 0px;
+    margin-bottom: 10px;
+    text-align: left;
+    color: black;
+}
+p{
+    margin-bottom: 5px;
+    text-align: justify;
+}
